@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const { string } = require("zod");
 mongoose.connect(
-  "mongodb+srv://vidit9151:ieYRyeTDYGe0E7xt@cluster0.i3etzei.mongodb.net/paytm"
+  "mongodb+srv://vidit9151:~~~~Pass~~~@cluster0.i3etzei.mongodb.net/paytm"
 );
 const UserSchema = new mongoose.Schema({
   username: {
